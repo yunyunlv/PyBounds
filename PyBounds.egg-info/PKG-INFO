@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: PyBounds
+Version: 0.0.1
+Summary: Implementing partial identification estimators
+Home-page: https://github.com/yunyunlv/PyBounds
+Author: Arie Beresteanu, Yunyun Lv
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: statsmodels
+
+Implementing partial identification estimators. This is a Python version of a very old Stata and Matlab packages that Arie wrote with Chuck Manski when he was a grad student. This package is under development and is in its infancy. Comments, suggestions and help are, obviously welcome.
+
+Team: Arie Beresteanu, Yunyun Lv
+
+Plan:
+
+-stage 1: Implement all that we had in the Stata/Matlab package
+-stage 2: Implement Beresteanu & Molinary 2012
+-stage 3: Implement Beresteanu Sasaki 2020
+-stage 4: Implement other papers out there
