@@ -12,3 +12,5 @@ Plan:
 How to install:
 - Install pip if you haven't: [Installation of pip](https://pip.pypa.io/en/stable/installation/)
 - In Command Prompt or Terminal, run `pip install git+https://github.com/yunyunlv/PyBounds.git`
+
+See examples (with data) in the [tests](https://github.com/yunyunlv/PyBounds/tree/main/tests) folder.
